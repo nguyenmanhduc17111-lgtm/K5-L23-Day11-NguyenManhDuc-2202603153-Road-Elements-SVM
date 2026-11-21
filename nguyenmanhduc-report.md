@@ -39,7 +39,7 @@ Số liệu lấy từ hai ZIP.
 ## 4. Phiếu QC 1 nhận được
 
 **Bạn kiểm lô của tôi** Nguyễn Thanh Quang - 2A202603083 
-**Quyết định nhận được** gửi cho Quang trước lúc sửa - Hold
+**Quyết định nhận được** Hold
 
 | Mã lỗi | Số lỗi | Đồng ý? | Đã sửa? |
 |---|---:|---|---|
